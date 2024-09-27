@@ -1,0 +1,903 @@
+[
+  {
+    "category": "Basics of Philately",
+    "question": "What is philately the study of?",
+    "correct_answer": "Stamps",
+    "incorrect_answers": ["Coins", "Flags", "Books"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "Which term describes a stamp in perfect condition with original gum?",
+    "correct_answer": "Mint",
+    "incorrect_answers": ["Used", "Cancelled", "Hinged"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is the significance of a stamp’s perforation?",
+    "correct_answer": "It helps separate stamps easily.",
+    "incorrect_answers": ["It indicates the stamp's value.", "It shows the stamp's origin.", "It determines the color of the stamp."]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'first day cover'?",
+    "correct_answer": "A letter with a stamp postmarked on its first day of issue",
+    "incorrect_answers": ["The first stamp issued by a country", "A cover without a stamp", "A cover with a revenue stamp"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "Which of the following is a famous philatelic publication?",
+    "correct_answer": "Scott Catalogue",
+    "incorrect_answers": ["The Times", "National Geographic", "Time Magazine"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'block of stamps'?",
+    "correct_answer": "A group of stamps in a rectangle",
+    "incorrect_answers": ["A single stamp", "Stamps that are damaged", "Stamps issued on the same day"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What does 'cancelled' mean in stamp collecting?",
+    "correct_answer": "A stamp that has been marked to prevent reuse",
+    "incorrect_answers": ["A stamp that is unused", "A stamp that is printed incorrectly", "A stamp that is missing"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "Which country issued the first adhesive postage stamp?",
+    "correct_answer": "Great Britain",
+    "incorrect_answers": ["United States", "France", "Germany"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What does 'philatelist' mean?",
+    "correct_answer": "A person who studies or collects stamps",
+    "incorrect_answers": ["A stamp printer", "A postal worker", "A stamp designer"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What type of item is a 'postcard'?",
+    "correct_answer": "A piece of mail without an envelope",
+    "incorrect_answers": ["A type of stamp", "A postal service vehicle", "A philatelic exhibit"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "Which stamp is considered the world's first adhesive postage stamp?",
+    "correct_answer": "Penny Black",
+    "incorrect_answers": ["Two Pence Blue", "Penny Red", "Blue Mauritius"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'postal history'?",
+    "correct_answer": "The study of postal systems and rates",
+    "incorrect_answers": ["A collection of old stamps", "A historical mail route", "A book about stamps"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What does the term 'se-tenant' mean?",
+    "correct_answer": "Two or more different stamps joined together",
+    "incorrect_answers": ["A perforation error", "A misprinted stamp", "A stamp with a watermark"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'stamp album'?",
+    "correct_answer": "A book for storing and organizing stamps",
+    "incorrect_answers": ["A collection of rare stamps", "A catalog of stamp values", "A guide for stamp collectors"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'postmark'?",
+    "correct_answer": "A mark that shows the date and place of mailing",
+    "incorrect_answers": ["A type of rare stamp", "A postal code", "A printing error"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'precancel' stamp?",
+    "correct_answer": "A stamp canceled before being affixed to mail",
+    "incorrect_answers": ["A stamp canceled twice", "A stamp that was not used", "A stamp with a value error"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'cinderella' in philately?",
+    "correct_answer": "A label that looks like a stamp but is not",
+    "incorrect_answers": ["A stamp with a fairy tale theme", "A rare stamp from Europe", "A stamp with a printing flaw"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is the purpose of a 'revenue stamp'?",
+    "correct_answer": "To show payment of a tax or fee",
+    "incorrect_answers": ["To cover postage costs", "To honor a historical event", "To be used in airmail services"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'perfin'?",
+    "correct_answer": "A stamp with perforated initials or designs",
+    "incorrect_answers": ["A misprinted stamp", "A stamp with an overprint", "A stamp with a watermark"]
+  },
+  {
+    "category": "Basics of Philately",
+    "question": "What is a 'catalog value' in stamp collecting?",
+    "correct_answer": "The estimated market value of a stamp",
+    "incorrect_answers": ["The cost of printing the stamp", "The price of the stamp in a catalog", "The face value of the stamp"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is the most valuable stamp in the world?",
+    "correct_answer": "The British Guiana 1c Magenta",
+    "incorrect_answers": ["The Penny Black", "The Inverted Jenny", "The Blue Mauritius"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is unique about the Inverted Jenny stamp?",
+    "correct_answer": "It features an upside-down airplane",
+    "incorrect_answers": ["It has a rare color", "It was issued in limited quantity", "It features a famous person"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which country issued the Blue Mauritius stamp?",
+    "correct_answer": "Mauritius",
+    "incorrect_answers": ["France", "Switzerland", "Germany"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is the main theme of the Penny Black stamp?",
+    "correct_answer": "The portrait of Queen Victoria",
+    "incorrect_answers": ["The British flag", "The London skyline", "The Royal Family"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What was special about the 1999 'Celebrate the Century' stamps?",
+    "correct_answer": "They honored significant events from the 20th century",
+    "incorrect_answers": ["They were holographic", "They featured only famous Americans", "They were issued for free"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which stamp is known for its printing error featuring a double image?",
+    "correct_answer": "The 1918 Inverted Jenny",
+    "incorrect_answers": ["The 1847 U.S. Postage", "The 1938 Presidential Series", "The 1976 Bicentennial Stamp"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What notable feature does the Treskilling Yellow stamp have?",
+    "correct_answer": "It was misprinted and only one is known to exist",
+    "incorrect_answers": ["It features a famous explorer", "It was issued in 1840", "It has a unique watermark"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which famous musician is honored on a U.S. stamp issued in 2014?",
+    "correct_answer": "Jimi Hendrix",
+    "incorrect_answers": ["Elvis Presley", "John Lennon", "Michael Jackson"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is the primary color of the 1945 U.S. stamp featuring Franklin D. Roosevelt?",
+    "correct_answer": "Blue",
+    "incorrect_answers": ["Red", "Green", "Yellow"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which stamp features the iconic 'Rockwell' painting?",
+    "correct_answer": "The 2002 'American Treasures' stamp",
+    "incorrect_answers": ["The 1948 'Freedom' stamp", "The 1960 'World's Fair' stamp", "The 1994 'Jazz' stamp"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which U.S. state was featured on the first statehood commemorative stamp?",
+    "correct_answer": "Alaska",
+    "incorrect_answers": ["California", "New York", "Texas"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is depicted on the famous Penny Red stamp?",
+    "correct_answer": "The profile of Queen Victoria",
+    "incorrect_answers": ["The British Lion", "Big Ben", "The Crown Jewels"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which stamp is known for its holographic image?",
+    "correct_answer": "The 1999 Lunar New Year Stamp",
+    "incorrect_answers": ["The 1964 JFK Memorial Stamp", "The 1976 Bicentennial Stamp", "The 1982 Love Stamp"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is the main feature of the British Penny Black stamp?",
+    "correct_answer": "It is the world's first adhesive postage stamp",
+    "incorrect_answers": ["It is the world's first colored stamp", "It was printed in large numbers", "It was issued in 1900"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What bird is depicted on the 1982 U.S. Love Stamp?",
+    "correct_answer": "Dove",
+    "incorrect_answers": ["Eagle", "Robin", "Sparrow"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which U.S. President was the first to appear on a U.S. stamp?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["Abraham Lincoln", "Thomas Jefferson", "Franklin D. Roosevelt"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which stamp honored the 50th anniversary of the moon landing?",
+    "correct_answer": "The 2019 Moon Landing Stamp",
+    "incorrect_answers": ["The 1969 Apollo 11 Stamp", "The 1971 Lunar Rover Stamp", "The 1989 Space Shuttle Stamp"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "Which U.S. stamp was issued to commemorate the end of World War II?",
+    "correct_answer": "The 1945 'Victory' Stamp",
+    "incorrect_answers": ["The 1944 'D-Day' Stamp", "The 1950 'Korean War' Stamp", "The 1965 'Vietnam War' Stamp"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What does the 2000 'Celebrate the Century' series commemorate?",
+    "correct_answer": "Important events and people of the 20th century",
+    "incorrect_answers": ["U.S. Presidents", "World War II", "Space Exploration"]
+  },
+  {
+    "category": "Famous Stamps",
+    "question": "What is the nickname of the 1856 British Guiana 1c magenta stamp?",
+    "correct_answer": "The world's most valuable stamp",
+    "incorrect_answers": ["The world's first stamp", "The world's rarest stamp", "The world's largest stamp"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'postage due' mean?",
+    "correct_answer": "An amount owed for insufficient postage",
+    "incorrect_answers": ["A rare stamp", "A canceled stamp", "A stamp with no value"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is a 'cachet' in philately?",
+    "correct_answer": "A design or inscription on an envelope",
+    "incorrect_answers": ["A stamp with a perforation error", "A rare stamp variety", "A special type of postmark"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is the meaning of 'fiscally used'?",
+    "correct_answer": "A stamp used for revenue purposes",
+    "incorrect_answers": ["A stamp used for postage", "A stamp that is never used", "A stamp with a special postmark"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'hinge' mean in stamp collecting?",
+    "correct_answer": "A small piece of paper used to mount a stamp",
+    "incorrect_answers": ["A special stamp holder", "A type of perforation", "A term for damaged stamps"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'cover' mean in philately?",
+    "correct_answer": "An envelope or wrapper with a postmark",
+    "incorrect_answers": ["A type of stamp album", "A rare stamp variety", "A perforation tool"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is 'watermark' in stamps?",
+    "correct_answer": "A design impressed into the paper during manufacturing",
+    "incorrect_answers": ["A type of postmark", "A special ink used on stamps", "A method of perforation"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is 'face value' of a stamp?",
+    "correct_answer": "The value printed on the stamp",
+    "incorrect_answers": ["The market value of the stamp", "The cost of printing the stamp", "The first-day issue price"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is a 'gutter pair' in philately?",
+    "correct_answer": "Two stamps separated by a margin",
+    "incorrect_answers": ["Two stamps with printing errors", "Two stamps with different designs", "Two stamps with misprints"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is the purpose of a 'plate number' on a stamp?",
+    "correct_answer": "It identifies the printing plate used",
+    "incorrect_answers": ["It shows the stamp's value", "It indicates the issuing country", "It marks the post office of issue"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is 'grill' in stamp collecting?",
+    "correct_answer": "A pattern of small indentations on a stamp",
+    "incorrect_answers": ["A type of stamp album", "A tool for mounting stamps", "A method of printing"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 're-gummed' mean in philately?",
+    "correct_answer": "A stamp with new adhesive applied",
+    "incorrect_answers": ["A stamp without adhesive", "A stamp with extra perforations", "A stamp with new ink applied"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is a 'tête-bêche' pair in stamp collecting?",
+    "correct_answer": "Two stamps printed head-to-foot",
+    "incorrect_answers": ["Two stamps with different values", "Two stamps with same value", "Two stamps issued on the same day"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'overprint' mean in philately?",
+    "correct_answer": "An additional printing on a stamp after issuance",
+    "incorrect_answers": ["A printing error", "A watermark design", "An obsolete stamp"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is the meaning of 'fancy cancel'?",
+    "correct_answer": "A decorative cancellation mark",
+    "incorrect_answers": ["A stamp with a rare design", "A stamp with a high value", "A stamp issued in limited quantity"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'centering' mean in stamp grading?",
+    "correct_answer": "The position of the design within the perforations",
+    "incorrect_answers": ["The value of the stamp", "The type of perforation used", "The ink quality of the stamp"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'rouletting' mean in stamp perforation?",
+    "correct_answer": "Cuts made between stamps without removing paper",
+    "incorrect_answers": ["Removing perforations from a stamp", "Double perforating a stamp", "Adding extra perforations"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'essay' mean in philately?",
+    "correct_answer": "A proposed stamp design not used",
+    "incorrect_answers": ["A special type of stamp", "A rare stamp variety", "A stamp with an error"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What is a 'bisect' in stamp collecting?",
+    "correct_answer": "A stamp cut in half to pay a lower rate",
+    "incorrect_answers": ["A stamp with two designs", "A stamp with no perforations", "A stamp used on both sides of a cover"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'selvage' refer to on a sheet of stamps?",
+    "correct_answer": "The margin paper around a sheet of stamps",
+    "incorrect_answers": ["A special stamp design", "A rare type of ink", "A printing error"]
+  },
+  {
+    "category": "Philately Terms",
+    "question": "What does 'phantom philately' mean?",
+    "correct_answer": "Collecting imaginary or fantasy stamps",
+    "incorrect_answers": ["Collecting damaged stamps", "Collecting rare stamps", "Collecting stamps without postmarks"]
+  },
+
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is the purpose of a stamp album?",
+    "correct_answer": "To store and display stamp collections",
+    "incorrect_answers": ["To sell stamps", "To create new stamps", "To trade stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is a 'hingeless album'?",
+    "correct_answer": "An album designed to hold stamps without the use of hinges",
+    "incorrect_answers": ["An album with built-in hinges", "An album that can't hold stamps", "An album only for rare stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is a 'stamp tongs'?",
+    "correct_answer": "A tool used to handle stamps without damaging them",
+    "incorrect_answers": ["A special type of stamp hinge", "A method of printing stamps", "A tool for perforating stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What does 'soaking' refer to in stamp collecting?",
+    "correct_answer": "Removing a stamp from an envelope by soaking in water",
+    "incorrect_answers": ["A method of cleaning stamps", "A way to enhance stamp colors", "A technique for repairing stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is a 'stockbook'?",
+    "correct_answer": "A book with pockets for storing stamps",
+    "incorrect_answers": ["A catalog of stamp values", "A book listing stamp errors", "A book for writing about stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "Why is it important to use watermark fluid?",
+    "correct_answer": "To detect watermarks on stamps",
+    "incorrect_answers": ["To clean stamps", "To preserve stamps", "To enhance stamp colors"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What does 'hinging a stamp' mean?",
+    "correct_answer": "Attaching a stamp to an album page with a small piece of paper",
+    "incorrect_answers": ["Folding a stamp", "Perforating a stamp", "Printing on a stamp"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is 'a topical collection'?",
+    "correct_answer": "A collection based on a specific theme, like animals or sports",
+    "incorrect_answers": ["A collection of rare stamps", "A collection of damaged stamps", "A collection of overprinted stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is the purpose of a 'stamp mount'?",
+    "correct_answer": "To protect stamps while displaying them in albums",
+    "incorrect_answers": ["To remove stamps from envelopes", "To print stamps", "To repair damaged stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is 'expertising' in stamp collecting?",
+    "correct_answer": "Authenticating and verifying the genuineness of a stamp",
+    "incorrect_answers": ["Trading stamps with others", "Removing stamps from envelopes", "Creating new stamp designs"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What does 'filling a set' mean in stamp collecting?",
+    "correct_answer": "Collecting all the stamps in a series or issue",
+    "incorrect_answers": ["Repairing damaged stamps", "Creating a new stamp design", "Exchanging stamps with others"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is a 'specimen' stamp?",
+    "correct_answer": "A stamp marked as a sample and not for postage use",
+    "incorrect_answers": ["A stamp with a printing error", "A stamp issued for collectors only", "A rare and valuable stamp"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is a 'reperforated' stamp?",
+    "correct_answer": "A stamp whose perforations have been altered or repaired",
+    "incorrect_answers": ["A stamp with additional designs", "A stamp with enhanced colors", "A stamp used for printing errors"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is 'thinning' in stamp collecting?",
+    "correct_answer": "Damage where part of the paper is removed from the back of the stamp",
+    "incorrect_answers": ["Adding new gum to a stamp", "Enhancing the stamp's color", "Increasing the stamp's value"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is a 'stamp catalog' used for?",
+    "correct_answer": "To provide information on stamps and their values",
+    "incorrect_answers": ["To print stamps", "To design new stamps", "To trade stamps"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is the purpose of 'a watermark detector'?",
+    "correct_answer": "To help identify watermarks on stamps",
+    "incorrect_answers": ["To clean stamps", "To enhance stamp colors", "To remove stamps from envelopes"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What does 'centering' refer to in stamp grading?",
+    "correct_answer": "The position of the stamp design within the perforations",
+    "incorrect_answers": ["The value of the stamp", "The color of the stamp", "The perforation type"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is 'gutter snipe' in philately?",
+    "correct_answer": "A misaligned pair of stamps with gutter space",
+    "incorrect_answers": ["A stamp with color error", "A stamp with extra perforations", "A stamp with printing defect"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is 'perforation gauge' used for?",
+    "correct_answer": "To measure the number of perforations per unit length",
+    "incorrect_answers": ["To check stamp size", "To measure stamp thickness", "To calculate stamp value"]
+  },
+  {
+    "category": "Stamp Collecting Techniques",
+    "question": "What is the 'face value' of a stamp?",
+    "correct_answer": "The denomination printed on the stamp",
+    "incorrect_answers": ["The current market value", "The historical value", "The original purchase price"]
+  },
+
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event does the U.S. 1976 Bicentennial Stamp commemorate?",
+    "correct_answer": "200th anniversary of American independence",
+    "incorrect_answers": ["The signing of the Constitution", "The end of World War II", "The Civil War"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which U.S. event was commemorated by the 1969 Moon Landing Stamp?",
+    "correct_answer": "Apollo 11's first moon landing",
+    "incorrect_answers": ["Launch of the first satellite", "First man in space", "Discovery of Mars"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What historical event is depicted on the 1945 Victory Stamp?",
+    "correct_answer": "End of World War II",
+    "incorrect_answers": ["End of World War I", "Start of the Cold War", "Apollo 11 landing"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which historical event is featured on the 1959 Cuban Revolution stamp?",
+    "correct_answer": "Fidel Castro's rise to power",
+    "incorrect_answers": ["End of the Cuban Missile Crisis", "Independence from Spain", "Cuban-American Relations"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What does the 1999 Year 2000 Stamp commemorate?",
+    "correct_answer": "The turn of the millennium",
+    "incorrect_answers": ["The invention of the Internet", "The discovery of DNA", "The end of World War II"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is commemorated by the 1965 U.S. Civil War Centennial stamp?",
+    "correct_answer": "100th anniversary of the end of the Civil War",
+    "incorrect_answers": ["The signing of the Emancipation Proclamation", "The start of the Civil War", "Lincoln's assassination"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What is depicted on the 1992 Columbus Quincentenary stamps?",
+    "correct_answer": "500th anniversary of Christopher Columbus' arrival in the Americas",
+    "incorrect_answers": ["The founding of America", "The signing of the Constitution", "The discovery of North America"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is commemorated on the 1954 U.S. Brown v. Board of Education stamp?",
+    "correct_answer": "Desegregation of American public schools",
+    "incorrect_answers": ["Civil Rights Act", "Women's suffrage", "Abolition of slavery"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which historical event does the 1990 reunification of Germany stamp celebrate?",
+    "correct_answer": "The fall of the Berlin Wall",
+    "incorrect_answers": ["The end of World War II", "The signing of the Treaty of Versailles", "The start of the Cold War"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is depicted on the 1953 U.S. Coronation of Queen Elizabeth II stamp?",
+    "correct_answer": "Queen Elizabeth II's ascension to the throne",
+    "incorrect_answers": ["Queen Victoria's reign", "The British Empire", "The War of the Roses"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is celebrated on the 1989 U.S. Stamp Act Repeal stamp?",
+    "correct_answer": "Repeal of the British Stamp Act of 1765",
+    "incorrect_answers": ["End of the American Revolution", "Signing of the Declaration of Independence", "The Boston Tea Party"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What event is commemorated on the 1973 U.S. First Flight stamp?",
+    "correct_answer": "70th anniversary of the Wright brothers' first flight",
+    "incorrect_answers": ["The first commercial flight", "First man in space", "First moon landing"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What historical event does the 1949 U.S. NATO stamp represent?",
+    "correct_answer": "Founding of NATO",
+    "incorrect_answers": ["End of World War II", "Establishment of the United Nations", "The start of the Cold War"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What does the 1994 D-Day anniversary stamp commemorate?",
+    "correct_answer": "50th anniversary of the D-Day landings in Normandy",
+    "incorrect_answers": ["End of World War I", "Beginning of World War II", "The Battle of the Bulge"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is marked by the 1968 Mexico City Olympics stamp?",
+    "correct_answer": "The 1968 Summer Olympics",
+    "incorrect_answers": ["The end of the Cold War", "The discovery of Mexico", "The Mexican Revolution"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is celebrated by the 1997 Pathfinder Mars stamp?",
+    "correct_answer": "The successful landing of the Mars Pathfinder",
+    "incorrect_answers": ["First manned mission to Mars", "First satellite to orbit Mars", "First discovery of water on Mars"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What does the 1967 Expo 67 stamp represent?",
+    "correct_answer": "The world's fair held in Montreal, Canada",
+    "incorrect_answers": ["The founding of Canada", "The end of World War II", "The discovery of the New World"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which event is depicted on the 1984 Los Angeles Olympics stamp?",
+    "correct_answer": "The 1984 Summer Olympics",
+    "incorrect_answers": ["The 1980 Winter Olympics", "The founding of Los Angeles", "The end of World War II"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "Which historical event is commemorated on the 1972 Nixon visit to China stamp?",
+    "correct_answer": "President Nixon's visit to China",
+    "incorrect_answers": ["Establishment of China-US relations", "End of the Vietnam War", "End of the Korean War"]
+  },
+  {
+    "category": "Historical Events on Stamps",
+    "question": "What does the 1990 fall of the Berlin Wall stamp symbolize?",
+    "correct_answer": "The reunification of Germany",
+    "incorrect_answers": ["The end of World War II", "The end of the Cold War", "The start of the European Union"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does the term 'perforation' refer to in philately?",
+    "correct_answer": "Holes punched between stamps to separate them",
+    "incorrect_answers": ["Printing error on a stamp", "The stamp's watermark", "Design elements on a stamp"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is an 'imperforate' stamp?",
+    "correct_answer": "A stamp without perforations",
+    "incorrect_answers": ["A stamp with printing error", "A stamp with no value", "A damaged stamp"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is the 'face value' of a stamp?",
+    "correct_answer": "The monetary value printed on the stamp",
+    "incorrect_answers": ["The market value of a stamp", "The historical value of a stamp", "The cost of producing the stamp"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does 'mint' mean in philately?",
+    "correct_answer": "A stamp in its original condition, unused",
+    "incorrect_answers": ["A stamp that has been used", "A damaged stamp", "A stamp with no value"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'first day cover'?",
+    "correct_answer": "An envelope with a stamp postmarked on its first day of issue",
+    "incorrect_answers": ["The first stamp issued by a country", "A cover without a stamp", "A cover with multiple stamps"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does 'watermark' mean in stamps?",
+    "correct_answer": "A pattern in the paper used for identification and security",
+    "incorrect_answers": ["The color of the stamp", "The stamp's design", "The paper quality"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'cancellation' on a stamp?",
+    "correct_answer": "A mark used to prevent reuse of a stamp",
+    "incorrect_answers": ["A printing error", "A stamp with no value", "A stamp removed from circulation"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'commemorative stamp'?",
+    "correct_answer": "A stamp issued to honor a person, event, or anniversary",
+    "incorrect_answers": ["A stamp used for everyday postage", "A stamp with printing error", "A stamp issued for collectors only"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does 'centering' refer to in philately?",
+    "correct_answer": "The position of the stamp design within the perforations",
+    "incorrect_answers": ["The value of the stamp", "The color of the stamp", "The perforation type"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'definitive stamp'?",
+    "correct_answer": "A stamp issued for regular use over an extended period",
+    "incorrect_answers": ["A stamp issued for a special event", "A stamp with a printing error", "A stamp issued for collectors only"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is an 'overprint'?",
+    "correct_answer": "An additional printing on a stamp for new usage or value",
+    "incorrect_answers": ["A printing error on a stamp", "A stamp used twice", "A mark used to cancel a stamp"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'revenue stamp'?",
+    "correct_answer": "A stamp used to collect taxes or fees",
+    "incorrect_answers": ["A stamp for postage only", "A stamp with no value", "A stamp issued for collectors"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is 'se-tenant' in stamp collecting?",
+    "correct_answer": "Two or more stamps with different designs or values attached",
+    "incorrect_answers": ["A stamp with a printing error", "A stamp with no value", "A damaged stamp"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'souvenir sheet'?",
+    "correct_answer": "A small sheet of stamps issued as a memento of an event",
+    "incorrect_answers": ["A sheet of low-value stamps", "A sheet with damaged stamps", "A sheet used for mailing"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does 'plate block' refer to in stamp collecting?",
+    "correct_answer": "A block of stamps showing the plate number in the margin",
+    "incorrect_answers": ["A group of damaged stamps", "A set of rare stamps", "A block of stamps with errors"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does 'Gutter Pair' mean?",
+    "correct_answer": "Two stamps separated by a blank space or gutter",
+    "incorrect_answers": ["A stamp with printing errors", "A stamp with no value", "Two different stamps together"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What does the term 'Tête-bêche' refer to in philately?",
+    "correct_answer": "Two stamps printed upside-down relative to each other",
+    "incorrect_answers": ["A damaged stamp", "A stamp with an overprint", "A stamp with no value"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is a 'backprint' in stamp collecting?",
+    "correct_answer": "Printing on the reverse side of a stamp",
+    "incorrect_answers": ["Printing error on a stamp", "A stamp without value", "A damaged stamp"]
+  },
+  {
+    "category": "Philatelic Terminology",
+    "question": "What is 'philately'?",
+    "correct_answer": "The study and collection of stamps",
+    "incorrect_answers": ["The sale of rare stamps", "The design of stamps", "The printing of stamps"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which organization is known as the world's largest philatelic society?",
+    "correct_answer": "American Philatelic Society (APS)",
+    "incorrect_answers": ["Royal Philatelic Society London", "International Federation of Philately (FIP)", "Universal Postal Union (UPU)"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "What is the role of the Universal Postal Union (UPU) in philately?",
+    "correct_answer": "Regulates international mail and issues postage stamp guidelines",
+    "incorrect_answers": ["Organizes stamp exhibitions", "Issues collectible stamps", "Appraises rare stamps"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which society is the oldest philatelic society in the world?",
+    "correct_answer": "Royal Philatelic Society London",
+    "incorrect_answers": ["American Philatelic Society (APS)", "Philatelic Traders Society", "International Federation of Philately (FIP)"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which organization oversees the international competitive exhibitions in philately?",
+    "correct_answer": "International Federation of Philately (FIP)",
+    "incorrect_answers": ["Universal Postal Union (UPU)", "American Philatelic Society (APS)", "Royal Philatelic Society London"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which society awards the prestigious 'Roll of Distinguished Philatelists'?",
+    "correct_answer": "The Royal Philatelic Society London",
+    "incorrect_answers": ["American Philatelic Society (APS)", "International Federation of Philately (FIP)", "Philatelic Traders Society"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "What is the American Topical Association (ATA) known for?",
+    "correct_answer": "Specializing in thematic or topical stamp collecting",
+    "incorrect_answers": ["Organizing international exhibitions", "Appraising rare stamps", "Issuing guidelines for stamp design"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which organization is known for publishing the Scott Standard Postage Stamp Catalogue?",
+    "correct_answer": "American Philatelic Society (APS)",
+    "incorrect_answers": ["Royal Philatelic Society London", "International Federation of Philately (FIP)", "Universal Postal Union (UPU)"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "What is the role of the Philatelic Foundation?",
+    "correct_answer": "Provides expertizing services for stamp authentication",
+    "incorrect_answers": ["Organizes exhibitions", "Issues collectible stamps", "Regulates international mail"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which organization hosts the world's largest annual stamp show in the United States?",
+    "correct_answer": "American Philatelic Society (APS)",
+    "incorrect_answers": ["Royal Philatelic Society London", "International Federation of Philately (FIP)", "Universal Postal Union (UPU)"]
+  },
+  {
+    "category": "Philatelic Organizations and Societies",
+    "question": "Which organization is responsible for the 'Expert Committee' that assesses philatelic items?",
+    "correct_answer": "Royal Philatelic Society London",
+    "incorrect_answers": ["American Philatelic Society (APS)", "International Federation of Philately (FIP)", "Universal Postal Union (UPU)"]
+  },
+      {
+        "category": "Postal History and Development",
+        "question": "Which was the first country to issue adhesive postage stamps?",
+        "correct_answer": "United Kingdom",
+        "incorrect_answers": ["United States", "France", "Germany"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What was the first adhesive postage stamp called?",
+        "correct_answer": "Penny Black",
+        "incorrect_answers": ["Two Pence Blue", "Penny Red", "Black Penny"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which year was the Penny Black issued?",
+        "correct_answer": "1840",
+        "incorrect_answers": ["1837", "1845", "1850"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What is the name of the world's first postal service established by the Persian Empire?",
+        "correct_answer": "Chaparkhaneh",
+        "incorrect_answers": ["Pony Express", "Royal Mail", "Thurn und Taxis Post"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What did the 'Pony Express' primarily transport in the United States?",
+        "correct_answer": "Mail",
+        "incorrect_answers": ["Goods", "Gold", "Passengers"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which country was the first to introduce airmail service?",
+        "correct_answer": "United States",
+        "incorrect_answers": ["Germany", "France", "Brazil"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What year did the United States introduce airmail service?",
+        "correct_answer": "1918",
+        "incorrect_answers": ["1912", "1920", "1915"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What was the main purpose of the Universal Postal Union (UPU) founded in 1874?",
+        "correct_answer": "To standardize international mail regulations",
+        "incorrect_answers": ["To issue stamps", "To organize exhibitions", "To regulate stamp values"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which service did the U.S. Postal Service introduce to improve mail security in 1874?",
+        "correct_answer": "Registered Mail",
+        "incorrect_answers": ["Express Mail", "Parcel Post", "Certified Mail"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which country introduced the first pre-paid postage system?",
+        "correct_answer": "United Kingdom",
+        "incorrect_answers": ["United States", "France", "Germany"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Who is known as the 'father of the postage stamp'?",
+        "correct_answer": "Sir Rowland Hill",
+        "incorrect_answers": ["Benjamin Franklin", "Jean-Claude Kaempf", "Heinrich von Stephan"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What did the introduction of adhesive postage stamps eliminate?",
+        "correct_answer": "Postage payment upon delivery",
+        "incorrect_answers": ["Postal services", "Parcel delivery", "Stamp collecting"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which country's postal service is considered one of the oldest still operating, established in 1516?",
+        "correct_answer": "Austria",
+        "incorrect_answers": ["Germany", "France", "United Kingdom"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What was the significance of the 'Mulready Cover' introduced alongside the Penny Black?",
+        "correct_answer": "It was a pre-paid postal stationery",
+        "incorrect_answers": ["First airmail letter", "First registered mail", "First international letter"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which service marked the beginning of 'express mail' in the U.S. in 1885?",
+        "correct_answer": "Special Delivery",
+        "incorrect_answers": ["First-Class Mail", "Parcel Post", "Registered Mail"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which invention in 1895 revolutionized the handling and sorting of mail?",
+        "correct_answer": "Mail sorting machine",
+        "incorrect_answers": ["Adhesive stamps", "Penny Post", "Registered Mail"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which postal system innovation was introduced in 1963 in the United States?",
+        "correct_answer": "ZIP code",
+        "incorrect_answers": ["Registered Mail", "Parcel Post", "Express Mail"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What does 'Penny Post' refer to in British postal history?",
+        "correct_answer": "Low-cost postage system introduced in the 19th century",
+        "incorrect_answers": ["System for sending parcels", "First airmail service", "Pre-paid postal service"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "What innovation did the 'Postal Reorganization Act of 1970' bring to the U.S. postal system?",
+        "correct_answer": "Formation of the U.S. Postal Service",
+        "incorrect_answers": ["Introduction of airmail", "Introduction of registered mail", "Introduction of the ZIP code"]
+      },
+      {
+        "category": "Postal History and Development",
+        "question": "Which event in 1971 disrupted postal services in the United States for several weeks?",
+        "correct_answer": "Postal strike",
+        "incorrect_answers": ["Introduction of ZIP code", "New airmail service", "Postal reform bill"]
+      }
+]
+
+    
+      
+    
+  
